@@ -1,0 +1,32 @@
+.debug{
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.color{
+    background-color: 	#ff1493;
+}
+
+.title{
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.data{
+    color: #ff1493;
+    font-weight: bold;
+    text-align: center;
+}
+
+.priceContainer{
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 10px;
+    text-align: center;
+}
+
+.priceContainer h2{
+    text-align: left;
+}
