@@ -1,5 +1,7 @@
 .color{
     background-color: 	#ff1493;
+    height: 1080px;
+    max-width: 2000px;
 }
 
 .title{
@@ -24,4 +26,15 @@
 
 .priceContainer h2{
     text-align: left;
+}
+
+.resume{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.buttons{
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
